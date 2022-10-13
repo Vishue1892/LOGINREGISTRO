@@ -1,7 +1,7 @@
 body{
     background: linear-gradient(to right, #A32CDF, #106AD2);
 }
-#login, #registro{
+#login, #registro {
     width: 50%;
     border: 1px solid black;
     border-radius: 10px;
